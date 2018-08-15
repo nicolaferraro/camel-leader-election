@@ -1,8 +1,8 @@
 package me.nicolaferraro.leader;
 
 import org.apache.camel.builder.RouteBuilder;
-import org.apache.camel.ha.CamelClusterEventListener;
-import org.apache.camel.ha.CamelClusterService;
+import org.apache.camel.cluster.CamelClusterEventListener;
+import org.apache.camel.cluster.CamelClusterService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
