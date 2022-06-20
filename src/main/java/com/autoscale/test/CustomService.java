@@ -1,4 +1,4 @@
-package me.nicolaferraro.leader;
+package com.autoscale.test;
 
 
 import org.slf4j.Logger;
