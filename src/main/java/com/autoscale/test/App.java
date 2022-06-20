@@ -1,4 +1,4 @@
-package me.nicolaferraro.leader;
+package com.autoscale.test;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.cluster.CamelClusterEventListener;
